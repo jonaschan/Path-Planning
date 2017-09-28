@@ -6,6 +6,9 @@ For the first project in this term of the Udacity Self Driving Car course, we lo
 -  Car stays in its lane except when it decides to switch lanes.
 -  The car should be able to switch lanes when it is behind a slower moving car and an adjacent lane is clear of other traffic
 
+![Attempts](/Images/20170925_183945.jpg)
+
+
 ## Implementation
 
 My implementation of the path planner is based mainly on the spline function shown excellently in detail in the project walkthrough. As explained in the walkthrough, the spline function fits a line to a given set of points using a smooth function. I implemented this technique by feeding in points along the line and then back to the simulator.
