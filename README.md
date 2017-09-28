@@ -6,8 +6,13 @@ For the first project in this term of the Udacity Self Driving Car course, we lo
 -  Car stays in its lane except when it decides to switch lanes.
 -  The car should be able to switch lanes when it is behind a slower moving car and an adjacent lane is clear of other traffic
 
-![Attempts](/Images/20170925_183945.jpg)
+![Attempt 1](/Images/20170925_183945.jpg)
 
+![Attempt 2](/Images/20170925_193304.jpg)
+
+![Attempt 3](/Images/20170925_202743.jpg)
+
+![Attempt 4](/Images/20170925_203212.jpg)
 
 ## Implementation
 
